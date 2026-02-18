@@ -19,7 +19,7 @@ chmod +x ./scripts/delete_lab_key
 # run the import key script 
 ./scripts/import_lab_key ~/.ssh/aws.pub
 
-# run the delete key script 
+# run the delete key script (after done)
 ./scripts/delete_lab_key 
 ```
 
