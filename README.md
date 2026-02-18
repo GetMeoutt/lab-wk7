@@ -20,7 +20,7 @@ chmod +x ./scripts/delete_lab_key
 ./scripts/import_lab_key ~/.ssh/aws.pub
 
 # run the delete key script 
-./scripts/delete_lab_key ~/.ssh/aws.pub
+./scripts/delete_lab_key 
 ```
 
 set up ec2(s) with terraform 
