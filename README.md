@@ -50,7 +50,7 @@ ansible-playbook --syntax-check playbook.yml
 # run the playbook 
 ansible-playbook playbook.yml
 ```
-<img width="526" height="470" alt="Pasted image 20260217212240" src="https://github.com/user-attachments/assets/e5a41da8-ae42-4a7e-ac70-261da1142693" />
+
 
 Required Commands
 
@@ -104,5 +104,4 @@ ansible-playbook --syntax-check playbook.yml
 ansible-playbook playbook.yml
 ```
 [README.md](https://github.com/user-attachments/files/25382108/README.md)
-
-![[Pasted image 20260217212240.png]]
+<img width="526" height="470" alt="Pasted image 20260217212240" src="https://github.com/user-attachments/assets/e5a41da8-ae42-4a7e-ac70-261da1142693" />
